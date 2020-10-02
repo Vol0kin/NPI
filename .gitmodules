@@ -1,0 +1,9 @@
+[submodule "Sensores"]
+	path = Sensores
+	url = https://github.com/Vol0kin/sensores-alhambra
+[submodule "Voz"]
+	path = Voz
+	url = https://github.com/Jose26398/VoiceXML
+[submodule "Gestos"]
+	path = Gestos
+	url = https://github.com/nandovallec/LeapMotionProject
